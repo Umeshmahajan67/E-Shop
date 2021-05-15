@@ -1,2 +1,1 @@
-# E-Shop
-my first project
+# E-Shop 
